@@ -75,6 +75,3 @@ qrgSaver.save(savePath, edtValue.getText().toString().trim(), bitmap, QRGContent
 ```
 
 For more Details [Click Here](https://github.com/androidmads/QRGenerator/blob/master/app/src/main/java/androidmads/example/MainActivity.java)
-
-
-```
